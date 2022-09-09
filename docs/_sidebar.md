@@ -1,7 +1,9 @@
 - **LMS Links**
 - [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]()
 - **Project Info**
-This site has been generated using Paul Hibbitts' Docsify Multicourse Starter Kit. You can find out more by visiting the [GitHub Repository](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/) and reading the [ReadMe File](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/blob/main/README.md).
+This site has been generated using Paul Hibbitts' Docsify Multicourse Starter Kit. You can find out more by visiting:
+- [GitHub Repository](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/) 
+- [ReadMe File](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/blob/main/README.md)
 
 Click the link below if you'd like to use this site as a template.
 <form action="https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/generate" target="_blank">
