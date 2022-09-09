@@ -139,7 +139,8 @@
             homepage          : 'home.md',
             onlyCover         : true,
             loadSidebar       : true,
-            loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone),
+            loadNavbar        : true,
+            // !(getURLParameterByName(['standalone','embedded']) || standalone),
             externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 
             // SIDEBAR NAVIGATION
