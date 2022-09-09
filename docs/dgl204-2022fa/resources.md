@@ -22,10 +22,12 @@
 ## Videos, articles and podcasts
 *   [Kotlin Hands On](https://play.kotlinlang.org/hands-on/overview)
 *   [Kotlin YouTube by JetBrains](https://www.youtube.com/c/Kotlin)
+*   [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+*   [Kotlin GitHub Topic](https://github.com/topics/kotlin)
 
 ## UX Platform Guideline Collections  
 *   [Android User Interface Design Guidelines](https://developer.android.com/design)
-*   [Google Material Design Guidelines](https://material.google.com/)
+*   [Google Material Design Guidelines](https://m3.material.io/)
 *   [iOS Human Interface Design Guidelines (iPhone and iPad)](https://developer.apple.com/ios/human-interface-guidelines/)
 *   [OS X Human Interface Design Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html#//apple_ref/doc/uid/TP40002720-TPXREF101)
 *   [Windows App Design Guidelines (Touch)](https://msdn.microsoft.com/en-us/library/dn742468.aspx)
