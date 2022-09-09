@@ -1,4 +1,4 @@
 # Contact
  
-Some Name  
-somename@somewhere.edu  
+Ashley Blacquiere
+ashley.blacquiere@nic.bc.ca  
