@@ -1,0 +1,5 @@
+# Required Software
+
+* [IntelliJ IDEA - The Community Edition (CE)](https://www.jetbrains.com/idea/download/) is free and sufficient for our needs; however, with a [GitHub Student Developer Pack](https://education.github.com/pack) (highly recommended!) you can download the Ultimate version for free. Note that the campus lab computers have version 2022.1.2 of the Community Edition installed; you should consider installing that version or later. You might also consider installing the EduTools plugin for IntelliJ IDEA.
+* [Android Studio](https://developer.android.com/studio) - The current stable release is version 2021.2.1, the same version that is installed on the campus lab computers. You may install a later version if you wish, but I recommend sticking with the latest stable.
+* A GitHub client - The campus lab computers have [GitHub Desktop](https://desktop.github.com/) installed. My personal preference is to use [Tower](https://www.git-tower.com/), for which you can also receive a free Pro license if you register for the [GitHub Student Developer Pack](https://education.github.com/pack).
