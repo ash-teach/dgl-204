@@ -2,6 +2,7 @@
 - [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]()
 - **Project Info**
 This site has been generated using Paul Hibbitts' Docsify Multicourse Starter Kit. You can find out more by visiting:
+
 - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/) 
 - [ReadMe File](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/blob/main/README.md)
 
