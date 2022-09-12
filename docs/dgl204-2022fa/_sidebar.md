@@ -5,6 +5,6 @@
 
 - **LMS Links**
 <!-- - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]() -->
-<!-- - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://mycourses.nic.bc.ca/d2l/le/lessons/8618/units/361320) -->
+- [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://mycourses.nic.bc.ca/d2l/lms/dropbox/admin/folders_manage.d2l?ou=11972)
 - [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080) Class Discussions (Slack)](https://digitaldesign-f2i3028.slack.com/archives/C041CD9MG3H)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://mycourses.nic.bc.ca/d2l/le/lessons/11972/topics/361422)

@@ -8,11 +8,6 @@ Hey! We're going to learn Kotlin! In particular, we're going to learn the use of
 ## Basic types
 <iframe width="560" height="315" src="https://www.youtube.com/embed/44V7YRafc0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Programming language fundamentals
-Even if you have limited experience with statically-typed languages there are many common programming techniques that you will recognize in Kotlin, including things like functions, collections, control flow and strings. We'll examine all of these in a basic Kotlin sense.
-<div alt="video here?"></div>
-
-
 ## Primary resources
 ### Kotlin Docs
 The official [Kotlin Docs](https://kotlinlang.org/docs/home.html) site covers everything that you might need to know about Kotlin. Watch the video below to see how we'll use the docs.
@@ -73,4 +68,34 @@ If you have logged into the LearnCS.online site then when you are done your [pro
 ![learncs.online progresss](images/learncs-progress.png)
 
 # Assignments
+Our first assignment of the semester is the Independent Kotlin overview research - part 1, due Sept. 26th at 11:59pm (see my discussion on assignment submissions if you'd like to know more about this deadline). The document below outlines expectations, and you can watch the video embedded below for a bit of an overview.
+
 <div alt="video here"></div>
+
+## Objectives
+The purpose of this assignment is to provide you with an opportunity to familiarize yourself with the Kotlin Docs site and to learn about the broader Kotlin ecosystem. When you have completed the assignment you should be able to:
+
+* Explain, in a brief statement, the purpose of the Kotlin Docs;
+* Explain, in a brief statement, the audience for the Kotlin Docs;
+* Identify key resources related to a specific topic in the Kotlin Docs Overview;
+* Choose a meaningful code example related to a specific topic in the Kotlin Docs Overview.
+
+Note that this is part 1 of this assignment. When it is complete I will review and you will then move on to part 2.
+
+## Method
+1. Visit the [Kotlin Docs](https://kotlinlang.org/docs/home.html) site. Scan through the table of contents at right (open collapsible menus) and skim through any articles of interest.
+2. Visit the [Kotlin Docs Overview](https://kotlinlang.org/docs/multiplatform.html) section (Multiplatform is the first article in the section). Read at least the opening paragraphs for each article in the section (i.e. [Multiplatform](https://kotlinlang.org/docs/multiplatform.html), [Server side](https://kotlinlang.org/docs/server-overview.html), [Android](https://kotlinlang.org/docs/android-overview.html), etc.)
+3. Choose one of the articles in the Kotlin Docs Overview section to read in more detail. Choose something that interests you, or that you feel particularly compelled by. Read this article in detail and follow at least some of the embedded links to learn more.
+4. In a new GitHub repo do the following:
+    1. Write a brief summary - in your own words! - that summarizes the article you read in detail. A brief summary might be about two paragraphs of 3 - 5 sentences each.
+    2. List five key resources (either internal to Kotlin Docs, or external) and provide a brief summary (3 - 5 sentences, in your own words) explaining the importance of each.
+    3. Identify an open repository on GitHub (or other related service) that is related to your chosen article and that is written in Kotlin. Projects such as these appear in many of the articles in the Overview section, but for some articles you may need to dig a little deeper. Reach out if you need help with this. Write a short report including the following:
+        * Accurate title of the repository
+        * Accurate name of repository owner
+        * Working link to repository
+        * A brief description of the repository's purpose (as you understand it, in your own words) 
+
+## Reflection
+After you have completed all of the above write a short reflection in the GitHub repository that contains your report. You can reflect on any of the above that you like, for example you can talk about what you found interesting, or what you found challenging, or what surprised. A good approach is to consider what you didn't understand; in your reflection you can discuss what you think you might be able to do to improve your understanding.
+
+Your reflection should be at least a paragraph (3 - 5 well formed sentences) in your own words. If your having any trouble with the reflective process, you can ask me for a bit of help, or you can check out our [Resources](dgl204-2022fa/resources.md) page for support.
