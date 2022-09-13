@@ -86,7 +86,7 @@ Note that this is part 1 of this assignment. When it is complete I will review a
 1. Visit the [Kotlin Docs](https://kotlinlang.org/docs/home.html) site. Scan through the table of contents at right (open collapsible menus) and skim through any articles of interest.
 2. Visit the [Kotlin Docs Overview](https://kotlinlang.org/docs/multiplatform.html) section (Multiplatform is the first article in the section). Read at least the opening paragraphs for each article in the section (i.e. [Multiplatform](https://kotlinlang.org/docs/multiplatform.html), [Server side](https://kotlinlang.org/docs/server-overview.html), [Android](https://kotlinlang.org/docs/android-overview.html), etc.)
 3. Choose one of the articles in the Kotlin Docs Overview section to read in more detail. Choose something that interests you, or that you feel particularly compelled by. Read this article in detail and follow at least some of the embedded links to learn more.
-4. In a new GitHub repo do the following:
+4. In a new GitHub repo (based on [this template](https://github.com/nic-dgl-204-fall-2022/independent-kotlin-research), if you like) do the following:
     1. Write a brief summary - in your own words! - that summarizes the article you read in detail. A brief summary might be about two paragraphs of 3 - 5 sentences each.
     2. List five key resources (either internal to Kotlin Docs, or external) and provide a brief summary (3 - 5 sentences, in your own words) explaining the importance of each.
     3. Identify an open repository on GitHub (or other related service) that is related to your chosen article and that is written in Kotlin. Projects such as these appear in many of the articles in the Overview section, but for some articles you may need to dig a little deeper. Reach out if you need help with this. Write a short report including the following:
@@ -96,6 +96,6 @@ Note that this is part 1 of this assignment. When it is complete I will review a
         * A brief description of the repository's purpose (as you understand it, in your own words) 
 
 ## Reflection
-After you have completed all of the above write a short reflection in the GitHub repository that contains your report. You can reflect on any of the above that you like, for example you can talk about what you found interesting, or what you found challenging, or what surprised. A good approach is to consider what you didn't understand; in your reflection you can discuss what you think you might be able to do to improve your understanding.
+After you have completed all of the above write a short reflection in the GitHub repository that contains your report. You can reflect on any of the above that you like, for example you can talk about what you found interesting, or what you found challenging, or what surprised you. A good approach is to consider what you didn't understand; in your reflection you can discuss what you think you might be able to do to improve your understanding.
 
 Your reflection should be at least a paragraph (3 - 5 well formed sentences) in your own words. If your having any trouble with the reflective process, you can ask me for a bit of help, or you can check out our [Resources](dgl204-2022fa/resources.md) page for support.
