@@ -25,7 +25,7 @@ The official [Kotlin Docs](https://kotlinlang.org/docs/home.html) site covers ev
 For each row below you should read/examine/experiment with the given Kotlin by Example column, then attempt the corresponding exercises given in the LearnCS.online column. Some Kotlin by Example topics do not have corresponding LearnCS.online exercises - just move on to the next Kotlin by Example and those topics will come up in later exercises.
 
 As part of this homework we're going to begin the reflective process, but we're going to keep it light for this week. [This Google document](https://docs.google.com/document/d/1jS3eqGchO_-E8LXC9LR0kUS0prirYF4ujeUhkhcZzn4/edit?usp=sharing) is a checklist of all the exercises listed in the table below. Beside each item is a blank space where you may quickly state whether you found each exercise easy, challenging, or too difficult. See the video below for an example.
-<div alt="video here"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuXR-yL-f1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | **Kotlin by Example** | **LearnCS.online** |
 | --- | --- |
@@ -70,7 +70,7 @@ If you have logged into the LearnCS.online site then when you are done your [pro
 # Assignments
 Our first assignment of the semester is the Independent Kotlin overview research - part 1, due Sept. 26th at 11:59pm (see my discussion on assignment submissions if you'd like to know more about this deadline). The document below outlines expectations, and you can watch the video embedded below for a bit of an overview.
 
-<div alt="video here"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udezHtYl6y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Objectives
 The purpose of this assignment is to provide you with an opportunity to familiarize yourself with the Kotlin Docs site and to learn about the broader Kotlin ecosystem. When you have completed the assignment you should be able to:
