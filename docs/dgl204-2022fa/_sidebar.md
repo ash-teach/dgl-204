@@ -1,7 +1,7 @@
 **DGL204-2022fa**
 
 - [Course Welcome](dgl204-2022fa/course-welcome)
-<!-- - [Week 1 (Sept. 12)](dgl204-2022fa/week-01) -->
+- [Week 1 (Sept. 12)](dgl204-2022fa/week-01)
 
 - **LMS Links**
 <!-- - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]() -->
