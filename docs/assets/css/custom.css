@@ -23,6 +23,6 @@ body .markdown-section {
 }
 */
 
-.topics td {
-    padding-right: 1%;
+.topics td li {
+    margin-left: 1em;
 }

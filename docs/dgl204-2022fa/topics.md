@@ -1,12 +1,11 @@
 # Course Topics
-The following gives a high-level view of the topics that we'll be covering during the semester with *new* resources listed for each topic. *Programming topics* loosely correspond to each week of the semester, and you can assume that we'll cover each topic with enough depth that you should be able to make use of the programming feature listed. *Context topics* provide a little extra information about the Kotlin language, ecosystem, or about programming practice more broadly.  
+The following gives a high-level view of the topics that we'll be covering during the semester with links to *introductory* resources for each topic. *Programming topics* loosely correspond to each week of the semester, and you can assume that we'll cover each topic with enough depth that you should be able to make use of the programming feature listed. *Context topics* provide a little extra information about the Kotlin language, ecosystem, or about programming practice more broadly and are intended help you to become a more confident Kotlin programmer. 
 
  <table class="topics">
     <tr>
         <th>Unit</th>
         <th>Programming topic</th>
         <th>Context topic</th>
-        <th>New resources</th>
     </tr>
     <tr>
         <td>Fundamentals review</td>
@@ -16,12 +15,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/control-flow.html">Control flow</a></li>
         </td>
         <td>
-            <li>Documentation</li>
-            <li>Static vs dynamic types</li>
-        </td>
-        <td>
-            <li><a href="https://play.kotlinlang.org/byExample/overview">Kotlin by Example</a></li>
-            <li><a href="https://www.learncs.online/">LearnCS.online</a></li>
+            <li>Key Kotlin documentation resources</li>
+            <li>An intro to static and dynamic languages</li>
         </td>
     </tr>
         <td></td>
@@ -32,12 +27,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/null-safety.html">Null safety</a></li>
         </td>
         <td>
-            <li>IDEs and tools</li>
-            <li>Kotlin roadmap and KEEP</li>
-        </td>
-        <td>
-            <li><a href="https://kotlinlang.org/docs/kotlin-evolution.html#principles-of-pragmatic-evolution">Kotlin Evolution</a></li>
-            <li><a href="https://github.com/Kotlin/KEEP">Kotlin KEEP</a></li>
+            <li>IDE features and tools you don't want to miss!</li>
+            <li>Langauge evolution, the Kotlin roadmap and Kotlin KEEP</li>
         </td>
     <tr>
         <td>Object-oriented Programming</td>
@@ -48,9 +39,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/interfaces.html">Interfaces</a></li>
         </td>
         <td>
-            <li>The Kotlin-Java relationships</li>
+            <li>The Kotlin-Java relationship</li>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
@@ -61,9 +51,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/delegation.html">Delegation</a></li>
         </td>
         <td>
-            <li>Delegation vs. Inheritance</li>
+            <li>Delegation vs. Inheritance and related idiomatic approaches</li>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>Functional Programming</td>
@@ -72,9 +61,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a hrf="https://kotlinlang.org/docs/collection-transformations.html">Collection methods</a></li>
         </td>
         <td>
-            <li>Language paradigms</li>
+            <li>Language paradigms and why we need them</li>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
@@ -83,9 +71,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/lambdas.html#lambda-expressions-and-anonymous-functions">Lambda functions</a></li>
         </td>
         <td>
-            <li>What is the importance of types?</li>
+            <li>The importance of types and typing to functional paradigm</li>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
@@ -94,9 +81,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/functions.html#tail-recursive-functions">Tail recursion</a></li>
         </td>
         <td>
-            <li>Idiomatic programming vs. opinionated languages</li>
+            <li>Idiomatic programming and approaches vs. opinionated languages and frameworks</li>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>Applications</td>
@@ -105,9 +91,8 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://kotlinlang.org/docs/coroutines-overview.html">Coroutines</a></li>
         </td>
         <td>
-            <li>Maven vs. Gradle</li>
+            <li>Build systems for Kotlin and Android: Maven vs. Gradle</li>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
@@ -115,8 +100,7 @@ The following gives a high-level view of the topics that we'll be covering durin
             <li><a href="https://ktor.io/docs/intellij-idea.html">Ktor</a></li>
         </td>
         <td>
-            <li><a href="https://kotlinlang.org/docs/server-overview.html">Microservices</a></li>
+            <li>Server-side code and microservices for app development</li>
         </td>
-        <td></td>
     </tr>
 </table>
