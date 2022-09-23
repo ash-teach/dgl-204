@@ -28,7 +28,7 @@ The following gives a high-level view of the topics that we'll be covering durin
         </td>
         <td>
             <li>IDE features and tools you don't want to miss!</li>
-            <li>Langauge evolution, the Kotlin roadmap and Kotlin KEEP</li>
+            <li>Language evolution, the Kotlin roadmap and Kotlin KEEP</li>
         </td>
     <tr>
         <td>Object-oriented Programming</td>
