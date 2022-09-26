@@ -1,13 +1,14 @@
 > # What’s Happening This Week
 > ## Important Reminders
-> * Check out the [Week 1](dgl204-2022fa/week-01.md) content!
-> * If you missed it, install any [Required Software](dgl204-2022fa/course-welcome.md#required-software)
+> * The homework 1 reflection is due this week (Sept. 26th)
+> * The Independent Kotlin Overview research - part 1 assignment is due this week (Sept. 26th) 
 >
 > ## Required Reading
-> * There is lots of new content in the [Week 1](dgl204-2022fa/week-01.md) section.
-> * Coding homework comprises mostly work on Kotlin by Example and learnCS.online - check out the directions in Week 1.
-> * The first course assignment description is also found in the Week 1 section - it's due Sept. 26th
+> * Read/watch/listen to all [Week 2](dgl204-2022fa/week-02) content.
+> * Coding homework is very similar to week 1, although fewer overall exercises, and with the addition of some Kotlin Koans.
+> * Check out the requirements for the Independent Kotlin Overview research - part 2, which is due Oct. 7
 >
 > ## Weekly links
-> * [Course Welcome](dgl204-2022fa/course-welcome.md)
-> * [Week 1](dgl204-2022fa/week-01.md)
+> * [Course Welcome](dgl204-2022fa/course-welcome)
+> * [Week 1](dgl204-2022fa/week-01)
+> * [Week 2](dgl204-2022fa/week-02)
