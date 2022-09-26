@@ -1,6 +1,7 @@
-![Programming for Mobile App Development](images/1366x768-kotlin2022_2.png ':class=banner-image')
+# ![Programming for Mobile App Development](images/1366x768-kotlin2022_2.png)
 
 # Intro to Kotlin
+---
 Hey! We're going to learn Kotlin! In particular, we're going to learn the use of Kotlin for the development of mobile apps. As general-purpose programming language, Kotlin can be used for pretty much anything, but it's main use these days is as the language of choice for Android app development. However, Kotlin probably isn't your first programming language, and I'm going to assume you have some programming background already, probably with a statically-typed programming language.
 ## Static vs dynamic typing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3SYtaQ-EKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -22,6 +23,7 @@ The official [Kotlin Docs](https://kotlinlang.org/docs/home.html) site covers ev
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahomOzggrnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Homework and activities
+---
 For each row below you should read/examine/experiment with the given Kotlin by Example column, then attempt the corresponding exercises given in the LearnCS.online column. Some Kotlin by Example topics do not have corresponding LearnCS.online exercises - just move on to the next Kotlin by Example and those topics will come up in later exercises.
 
 As part of this homework we're going to begin the reflective process, but we're going to keep it light for this week. [This Google document](https://docs.google.com/document/d/1jS3eqGchO_-E8LXC9LR0kUS0prirYF4ujeUhkhcZzn4/edit?usp=sharing) is a checklist of all the exercises listed in the table below. Beside each item is a blank space where you may quickly state whether you found each exercise easy, challenging, or too difficult. See the video below for an example.
@@ -68,6 +70,7 @@ If you have logged into the LearnCS.online site then when you are done your [pro
 ![learncs.online progresss](images/learncs-progress.png)
 
 # Assignments
+---
 Our first assignment of the semester is the Independent Kotlin overview research - part 1, due Sept. 26th at 11:59pm (see my discussion on assignment submissions if you'd like to know more about this deadline). The document below outlines expectations, and you can watch the video embedded below for a bit of an overview.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udezHtYl6y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
