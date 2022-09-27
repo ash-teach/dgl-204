@@ -7,6 +7,8 @@
 > * Read/watch/listen to all [Week 2](dgl204-2022fa/week-02) content.
 > * Coding homework is very similar to week 1, although fewer overall exercises, and with the addition of some Kotlin Koans.
 > * Check out the requirements for the Independent Kotlin Overview research - part 2, which is due Oct. 7
+> * Also, check out this short video I made about the new 'How to get an A' guide on Brightspace
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/_JJIhWvUNOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
 > ## Weekly links
 > * [Course Welcome](dgl204-2022fa/course-welcome)
