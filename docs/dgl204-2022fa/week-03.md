@@ -64,6 +64,8 @@ class Person(val name: String) {
 
 See the video below for more details:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4RFv3yAeyCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Properties
 [Properties](https://kotlinlang.org/docs/properties.html) are class level variables, declared using `var` or `val`. As we've seen in the examples above Kotlin provides a convenient syntax for declaring these directly in the primary constructor as part of a class header.   
 ### Getters and setters
@@ -80,6 +82,8 @@ var bothTrue: Boolean
     }
 ```
 Check out the video below for some demonstrations:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7wScP99ZOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Inheritance
 The idea that classes in OOP languages can have subclasses is termed [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) and is a key feature of OOP languages. Inheritance isn't the only defining feature of OOP, but some other key OOP concepts, like [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) and [polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)), depend on inheritance for their meaning making inheritance one of the more important concepts.
@@ -118,6 +122,8 @@ class Child(override val age: Int): Parent() {
 ```
 The video below demonstrates some simple aspects of inheritance:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KykBx60416s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Interfaces
 [Interfaces](https://kotlinlang.org/docs/interfaces.html) are another tool of inheritance with a couple differences from the standard class-based inheritance: 
 
@@ -131,7 +137,37 @@ Students are often confused about when to use an interface versus when to use a 
 
 Watch the video below for more examples:
 
-
-# The Kotlin - Java relationship
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iE0CUV_xzsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Homework and activities
+---
+I will not be assigning any exercises from Kotlin By Example, LearnCS.online or from Kotlin Koans this week. However, I do strongly recommend that if after going through the above you still have any doubts about inheritance and especially about `abstract` or `interface` then please do go through some of the material on the LearnCS.online [Lesson 39: Using Interfaces](https://www.learncs.online/lessons/kotlin/usinginterfaces). Geoffrey uses a motivating idea similar to my toy service station example, so watching both should give you a very complete picture.
+
+For homework this week I would like you to continue the implementation of the service station example. You can find my example code in the [week3-example-code](https://github.com/nic-dgl-204-fall-2022/week3-example-code) repository on our [GitHub organization](https://github.com/nic-dgl-204-fall-2022/). To complete this assignment you should use the code found in the [Interfaces.kt](https://github.com/nic-dgl-204-fall-2022/week3-example-code/blob/main/src/main/kotlin/Interfaces.kt) file as a base and do the following:
+
+- Complete the implementation of the `acceptPayment` method
+- Add a `Fillable` interface to be inherited by the `Car` class, it should contain the `fillTank` method
+- Add a `Driveable` interface to be inherited by the `Car` class that includes:
+    - An immutable variable `topSpeed`
+    - A method `accelerate` and a method `brake`
+- Implement all `Driveable` members in `Car`
+- Make some changes and improvements of your own and record these in your repository README.md file
+
+Your changes should be thoughtful, and more than just a single line or two of code, but do not need to be extensive. There are plenty of opportunities for improvements - including the way that 'funds' are being handled, or you could consider writing an additional interface of approximately the same scope as those above.
+
+Once you have finished writing the associated code you should write a reflection in your README.md file that discusses your changes to the toy example and the process you went through to complete the requirements above. Was it easy or challenging? What resources did you have to consult? Is there anything else that could be done to improve the example? 
+
+Submit the url to your GitHub repository in the [Homework 4 dropbox](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12309&grpid=0&isprv=0&bp=0&ou=11972) on Brightspace.
+
+# Assignments due & upcoming assignments
+---
+## Independent Kotlin Overview Research - Part 2
+[Part 2 of the research overview assignment](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12298&grpid=0&isprv=&bp=0&ou=11972) is due Oct. 7 and you should get started working on it as soon as you get feedback from me on part 1. The goal of this assignment is to take a deeper dive into the repository you identified in part 1 in the context of both [idiomatic](https://kotlinlang.org/docs/idioms.html) and [coding conventions](https://kotlinlang.org/docs/coding-conventions.html).
+
+## Advent of Code assignment 
+This assignment comprises three parts, the first of which is due on Oct. 17th. You should read the [assignment description](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12300&grpid=0&isprv=0&bp=0&ou=11972) in detail, and watch the video below for a bit more information.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7t-_PPvUAjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Kotlin Roadmap Research
+I was hoping to discuss [this assignment](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12319&grpid=0&isprv=0&bp=0&ou=11972) this week to start you on it, but I think there is enough work for you to do already. Please hold off on starting this one until I tell you to do so, which will be at least until Oct. 17th.
