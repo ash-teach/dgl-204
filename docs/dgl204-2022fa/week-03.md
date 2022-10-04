@@ -157,15 +157,15 @@ Your changes should be thoughtful, and more than just a single line or two of co
 
 Once you have finished writing the associated code you should write a reflection in your README.md file that discusses your changes to the toy example and the process you went through to complete the requirements above. Was it easy or challenging? What resources did you have to consult? Is there anything else that could be done to improve the example? 
 
-Submit the url to your GitHub repository in the [Homework 4 dropbox](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12309&grpid=0&isprv=0&bp=0&ou=11972) on Brightspace.
+Submit the url to your GitHub repository in the Homework 4 dropbox on Brightspace.
 
 # Assignments due & upcoming assignments
 ---
 ## Independent Kotlin Overview Research - Part 2
-[Part 2 of the research overview assignment](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12298&grpid=0&isprv=&bp=0&ou=11972) is due Oct. 7 and you should get started working on it as soon as you get feedback from me on part 1. The goal of this assignment is to take a deeper dive into the repository you identified in part 1 in the context of both [idiomatic](https://kotlinlang.org/docs/idioms.html) and [coding conventions](https://kotlinlang.org/docs/coding-conventions.html).
+Part 2 of the research overview assignment is due Oct. 7 and you should get started working on it as soon as you get feedback from me on part 1. The goal of this assignment is to take a deeper dive into the repository you identified in part 1 in the context of both [idiomatic](https://kotlinlang.org/docs/idioms.html) and [coding conventions](https://kotlinlang.org/docs/coding-conventions.html).
 
 ## Advent of Code assignment 
-This assignment comprises three parts, the first of which is due on Oct. 17th. You should read the [assignment description](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12300&grpid=0&isprv=0&bp=0&ou=11972) in detail, and watch the video below for a bit more information.
+This assignment comprises three parts, the first of which is due on Oct. 17th. You should read the assignment description in detail, and watch the video below for a bit more information.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7t-_PPvUAjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
