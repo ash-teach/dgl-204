@@ -106,9 +106,9 @@ When you've completed all the work submit your checklist/reflective document to 
 # Assignment due & upcoming assignments
 ---
 ## Independent Kotlin Overview Research - Part 1
-The deadline for [this assignment](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=11966&grpid=0&isprv=0&bp=0&ou=11972) is Sept. 26th. For such an early assignment - and considering that you had a week off! :) - I would expect that you should have it completed on-time, but if you're a bit behind don't stress too much. Nevertheless, do try to get it submitted as soon as possible so that I can review and send feedback as soon as possible. 
+The deadline for this assignment is Sept. 26th. For such an early assignment - and considering that you had a week off! :) - I would expect that you should have it completed on-time, but if you're a bit behind don't stress too much. Nevertheless, do try to get it submitted as soon as possible so that I can review and send feedback as soon as possible. 
 
 ## Independent Kotlin Overview Research - Part 2
-[Part 2 of the research overview assignment](https://mycourses.nic.bc.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=12298&grpid=0&isprv=&bp=0&ou=11972) is due Oct. 7 and you should get started working on it as soon as you get feedback from me on part 1. The goal of this assignment is to take a deeper dive into the repository you identified in part 1 in the context of both [idiomatic](https://kotlinlang.org/docs/idioms.html) and [coding conventions](https://kotlinlang.org/docs/coding-conventions.html). Check out the video below for more info:
+Part 2 of the research overview assignment is due Oct. 7 and you should get started working on it as soon as you get feedback from me on part 1. The goal of this assignment is to take a deeper dive into the repository you identified in part 1 in the context of both [idiomatic](https://kotlinlang.org/docs/idioms.html) and [coding conventions](https://kotlinlang.org/docs/coding-conventions.html). Check out the video below for more info:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqeMLPNdyhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
