@@ -64,7 +64,7 @@ class Person(val name: String) {
 
 See the video below for more details:
 
-**I had to remove this video temporarily - check back later today and it should be available**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4RFv3yAeyCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Properties
 [Properties](https://kotlinlang.org/docs/properties.html) are class level variables, declared using `var` or `val`. As we've seen in the examples above Kotlin provides a convenient syntax for declaring these directly in the primary constructor as part of a class header.   
