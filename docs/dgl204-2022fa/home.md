@@ -2,6 +2,8 @@
 > ---
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/VNK3jZ4zuVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/BLJTdvMZvWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>
 > ## Important Reminders
 > * The first Advent of Code assignment is due today (Oct. 17)
 > * Details for the Independent Development assignment have been released - check it out on Brightspace!
@@ -9,7 +11,7 @@
 > * Homework 5 is due on Oct. 24th, next Monday, at 11:59pm
 >
 > ## Required Reading
-> * Read to all [Week 4](dgl204-2022fa/week-04) content.
+> * Read all [Week 4](dgl204-2022fa/week-04) content.
 > * More week 4 content will be forthcoming! Emails to follow.
 > * Make sure to read through the description of the Independent Development assignment (it's long!) and watch the video - more videos demonstrating the process will follow!
 >
