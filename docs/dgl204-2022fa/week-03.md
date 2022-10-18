@@ -157,7 +157,7 @@ Your changes should be thoughtful, and more than just a single line or two of co
 
 Once you have finished writing the associated code you should write a reflection in your README.md file that discusses your changes to the toy example and the process you went through to complete the requirements above. Was it easy or challenging? What resources did you have to consult? Is there anything else that could be done to improve the example? 
 
-Submit the url to your GitHub repository in the Homework 4 dropbox on Brightspace.
+Submit the url to your GitHub repository in the Homework 3 dropbox on Brightspace.
 
 # Assignments due & upcoming assignments
 ---
