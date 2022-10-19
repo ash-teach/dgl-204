@@ -4,6 +4,16 @@
 ---
 In this second week devoted to object-oriented programming we examine some of the more modern language and Kotlin-specific features available to us. In particular: Kotlin provides a number of special keywords for commonly used class patterns; and native support for both the Singleton and the Delegation patterns. 
 
+The following video is a pretty long one! Over an hour! But I've added chapters to divide it into fairly manageable sections (see the links in the video description). Each section speaks to one of the text and examples sections below, but in the context of a more coherent project. The project itself is, admittedly, still very much a toy example, but I think a more meaningful one than the service station. You can find the code for the project in the [smartapp repository](https://github.com/nic-dgl-204-fall-2022/smartapp). And here is a [link to the codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects) that the smartapp project is derived from.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEG2wzWsdAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This next video is much shorter, but points out a few relevant examples from the topics below in a more actualized project. The project is the [Mars Photos project](https://github.com/google-developer-training/basic-android-kotlin-compose-training-mars-photos), which may be familiar to you prior DGL 114 students, with the key difference that this particular implementation of Mars Photos uses [Jetpack Compose](https://developer.android.com/jetpack/compose). If you're interested, [this is the codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet) that helps you build the Mars Photos app.
+
+> Important note: The video below demonstrates the Mars Photos app in Android Studio - not in IntelliJ IDEA.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/brAU9yZwc04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Special classes
 We've already looked at `open` and `abstract` classes, which are used as part of the standard OOP inheritance model. There are a number of additional class modifiers that you might elect to use at different times:
 
