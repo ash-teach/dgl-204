@@ -1,19 +1,15 @@
 > # What’s Happening This Week
 > ---
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/VNK3jZ4zuVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/BLJTdvMZvWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/xv_rux8W4VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
 > ## Important Reminders
-> * The first Advent of Code assignment is due today (Oct. 17)
-> * Details for the Independent Development assignment have been released - check it out on Brightspace!
-> * I've renumbered all homework assignments, and have **removed** the Kotlin Roadmap Research assignment - we won't have time for it.
-> * Homework 5 is due on Oct. 24th, next Monday, at 11:59pm
+> * Homework 4 is due today - Oct. 24th. If you're a bit behind please aim to get this in soon, as I'd like to get feedback to you as soon as possible.
+> * Advent of Code 2 is due _officially_ Nov. 7th, but I _recommend_ trying to get it in early, if possible. Oct. 31st would be a good target, if you can achieve it, but the 7th is fine too.
+> * Homework 5 is due on Oct. 31st, next Monday, at 11:59pm
 >
 > ## Required Reading
-> * Read all [Week 4](dgl204-2022fa/week-04) content.
-> * More week 4 content will be forthcoming! Emails to follow.
-> * Make sure to read through the description of the Independent Development assignment (it's long!) and watch the video - more videos demonstrating the process will follow!
+> * Read all [Week 5](dgl204-2022fa/week-05) content.
+> * More videos demonstrating the Independent Development Assignment will be coming this week!
 >
 > ## Weekly links
 > * [Course Welcome](dgl204-2022fa/course-welcome)
@@ -21,3 +17,4 @@
 > * [Week 2](dgl204-2022fa/week-02)
 > * [Week 3](dgl204-2022fa/week-03)
 > * [Week 4](dgl204-2022fa/week-04)
+> * [Week 5](dgl204-2022fa/week-05)
