@@ -6,6 +6,7 @@
 - [Week 3 (Oct. 3)](dgl204-2022fa/week-03)
 - [Week 4 (Oct. 17)](dgl204-2022fa/week-04)
 - [Week 5 (Oct. 24)](dgl204-2022fa/week-05)
+- [Week 6 (Oct. 31)](dgl204-2022fa/week-06)
 
 - **LMS Links**
 <!-- - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]() -->
