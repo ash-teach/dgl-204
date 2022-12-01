@@ -10,6 +10,7 @@
 - [Week 7 (Nov. 7)](dgl204-2022fa/week-07)
 - [Week 8 (Nov. 14)](dgl204-2022fa/week-08)
 - [Week 9 (Nov. 21)](dgl204-2022fa/week-09)
+- [Week 10 (Nov. 28)](dgl204-2022fa/week-10)
 
 - **LMS Links**
 <!-- - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]() -->
