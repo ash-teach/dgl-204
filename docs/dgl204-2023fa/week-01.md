@@ -10,7 +10,7 @@ Hey! We're going to learn Kotlin! In particular, we're going to learn the use of
 <iframe width="560" height="315" src="https://www.youtube.com/embed/44V7YRafc0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Creating a new IntelliJ IDEA project (IntelliJ IDEA CE 2023)
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ue_D77pwjHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Creating a new IntelliJ IDEA project (IntelliJ IDEA CE 2022)
 Last year's walkthrough video, in case you're using an older version of IntellJ IDEA
@@ -21,13 +21,13 @@ Last year's walkthrough video, in case you're using an older version of IntellJ 
 The official [Kotlin Docs](https://kotlinlang.org/docs/home.html) site covers everything that you might need to know about Kotlin. Watch the video below to see how we'll use the docs.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jRnfU9l3H_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Kotlin by Example
-[Kotlin by Example](https://play.kotlinlang.org/byExample/overview) is "an official set of small and simple annotated examples designed for those new to Kotlin". Although many of these examples leave out more details than we'd like, this is an excellent resource, and can be used for review and practice. 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### LearnCS.online
 [LearnCS.online](https://www.learncs.online) is web-based course for new programmers developed by Geoffrey Challen at the University of Illinois. The work Geoffrey and his team has done to develop this course is phenomenal, and Geoffrey has ensured that the course is open and free for anyone to use. 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/twnee7Ri7W4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Kotlin by Example
+[Kotlin by Example](https://play.kotlinlang.org/byExample/overview) is "an official set of small and simple annotated examples designed for those new to Kotlin". Although many of these examples leave out more details than we'd like, this is an excellent resource, and can be used for review and practice. 
+<iframe width="560" height="315" src="https://youtube.com/embed/1zBud0flThA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Homework and activities
 
