@@ -175,30 +175,30 @@
 
           // CUSTOM PLUGINS
           // -----------------------------------------------------------------
-          plugins: [
-            function (hook, vm) {
-              hook.beforeEach(function (html) {
-                if (/githubusercontent\.com/.test(vm.route.file)) {
-                  url = vm.route.file
-                    .replace('raw.githubusercontent.com', 'github.com')
-                    .replace(/\/master/, '/blob/master')
-                } else {
-                  url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
-                }
-                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+          // plugins: [
+          //   function (hook, vm) {
+          //     hook.beforeEach(function (html) {
+          //       if (/githubusercontent\.com/.test(vm.route.file)) {
+          //         url = vm.route.file
+          //           .replace('raw.githubusercontent.com', 'github.com')
+          //           .replace(/\/master/, '/blob/master')
+          //       } else {
+          //         url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
+          //       }
+          //       var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
-                // Adjust GitHub displayable image URL format to also work in Docsify
-                html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+          //       // Adjust GitHub displayable image URL format to also work in Docsify
+          //       html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
-                  return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
-                } else {
-                  return html
-                }
+          //       if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
+          //         return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
+          //       } else {
+          //         return html
+          //       }
 
-              })
-            }
-          ]
+          //     })
+          //   }
+          // ]
         }
     </script>
 
