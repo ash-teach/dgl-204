@@ -139,8 +139,7 @@
             homepage          : 'home.md',
             onlyCover         : true,
             loadSidebar       : true,
-            loadNavbar        : true,
-            // !(getURLParameterByName(['standalone','embedded']) || standalone),
+            loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone),
             externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 
             // SIDEBAR NAVIGATION
@@ -153,6 +152,14 @@
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
+            footer: {
+              copy: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Except where otherwise noted, DGL 204 Programming for Mobile App Development</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://ash-teach.github.io/dgl-204/#/" property="cc:attributionName" rel="cc:attributionURL">Ashley Blacquiere</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution NonCommercial ShareAlike 4.0 International License</a>',
+              auth: '',
+              pre: '<hr/>',
+              style: 'text-align: left;',
+              class: '',
+            },
+
             pagination: {
               previousText    : 'PREV',
               nextText        : 'NEXT',
@@ -170,27 +177,27 @@
           // -----------------------------------------------------------------
           plugins: [
             function (hook, vm) {
-              hook.beforeEach(function (html) {
-                if (/githubusercontent\.com/.test(vm.route.file)) {
-                  url = vm.route.file
-                    .replace('raw.githubusercontent.com', 'github.com')
-                    .replace(/\/master/, '/blob/master')
-                } else {
-                  url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
-                }
-                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+            //   hook.beforeEach(function (html) {
+            //     if (/githubusercontent\.com/.test(vm.route.file)) {
+            //       url = vm.route.file
+            //         .replace('raw.githubusercontent.com', 'github.com')
+            //         .replace(/\/master/, '/blob/master')
+            //     } else {
+            //       url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
+            //     }
+            //     var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
-                // Adjust GitHub displayable image URL format to also work in Docsify
-                html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+            //     // Adjust GitHub displayable image URL format to also work in Docsify
+            //     html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
-                  return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
-                } else {
-                  return html
-                }
+            //     if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
+            //       return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
+            //     } else {
+            //       return html
+            //     }
 
-              })
-            }
+            //   })
+            // }
           ]
         }
     </script>
@@ -214,6 +221,9 @@
 
     <!-- Font Awesome Plugin -->
     <script src="https://unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+
+    <!-- Footer Plugin -->
+    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 
     <!-- Tabs Plugin-->
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>

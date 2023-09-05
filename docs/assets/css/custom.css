@@ -26,3 +26,11 @@ body .markdown-section {
 .topics td li {
     margin-left: 1em;
 }
+
+.cc-license-text {
+    font-size: small;
+}
+
+.cc-license-text a {
+    display: contents;
+}
