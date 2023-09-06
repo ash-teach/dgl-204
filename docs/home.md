@@ -4,7 +4,7 @@
 
 ![MultiCourse Hub](assets/images/clark-van-der-beken-xApC8DIiD54-unsplash.jpg ':class=banner-tall-image')
 
-<!-- ## [DGL204-Fall2023](dgl204-2023fa/course-welcome) -->
-<!-- The fall 2023 offering of DGL 204 focusing on Kotlin. -->
+## [DGL204-Fall2023](dgl204-2023fa/course-welcome)
+The fall 2023 offering of DGL 204 focusing on Kotlin.
 ## [DGL204-Fall2022](dgl204-2022fa/course-welcome)
 The fall 2022 offering of DGL 204 focusing on Kotlin.
