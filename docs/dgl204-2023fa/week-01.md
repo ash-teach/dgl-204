@@ -35,12 +35,11 @@ The official [Kotlin Docs](https://kotlinlang.org/docs/home.html) site covers ev
 Follow the directions below to access the first set of programming challenges and complete them according to the directions. Note that this first set of "challenges" are intended to be *very* easy; if you have any trouble understanding what is required, or in completing the challenges, reach out to me as soon as possible so that we can correct your understanding and/or process *early*, before the course becomes more difficult.
 
 ### To access the programming challenges:
-1. 
-
-### Documentation and commenting
-After you have completed all of the above write a short reflection in the GitHub repository that contains your report. You can reflect on any of the above that you like, for example you can talk about what you found interesting, or what you found challenging, or what surprised you. A good approach is to consider what you didn't understand; in your reflection you can discuss what you think you might be able to do to improve your understanding.
-
-Your reflection should be at least a paragraph (3 - 5 well formed sentences) in your own words. If your having any trouble with the reflective process, you can ask me for a bit of help, or you can check out our [Resources](dgl204-2022fa/resources.md) page for support.
+1. Log into GitHub with your chosen account.
+2. [Click here](https://classroom.github.com/a/-xFh-2e8) to accept the assignment from GitHub Classroom.
+    - If this is the first time you have accessed GitHub Classroom for this class, you should choose your name from the class roster before accepting the assignment.
+3. Once the assignment has been generated you may clone it locally to your harddrive.
+4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 
 ## Recommended practice exercises
 The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
