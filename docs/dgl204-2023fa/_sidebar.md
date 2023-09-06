@@ -19,4 +19,4 @@
 <!-- - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]() -->
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://mycourses.nic.bc.ca/d2l/lms/dropbox/admin/folders_manage.d2l?ou=28107)
 - [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080) Class Discussions (Slack)](https://digitaldesign-f2i3028)
-- [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://mycourses.nic.bc.ca/d2l/le/lessons/28107/topics/520290)
+- [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://mycourses.nic.bc.ca/d2l/le/lessons/28107/topics/522411)
