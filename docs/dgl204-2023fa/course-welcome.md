@@ -9,7 +9,7 @@ If you're entirely new to Brightspace you might want to check out some of the re
 
 Once you've familiarized yourself with the course site and contents you should read the [syllabus](https://mycourses.nic.bc.ca/d2l/le/lessons/11972/topics/361422) and watch the course welcome videos. Then it's time to start installing software! See the [Required Software](#required-software) section below, and watch the video if you need a bit of help.
 
-The first week of course content will be released on **Monday Sept. 6th** so keep an eye on your Brightspace notifications for updates.
+The first week of course content will be released on **Wednesday Sept. 6th** so keep an eye on your Brightspace notifications for updates.
 
 I'm really excited about this course and what we're going to accomplish this semester! 
 
