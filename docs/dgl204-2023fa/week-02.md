@@ -42,7 +42,7 @@ The cool thing about Kotlin (and other open source languages that are developed 
 Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
 ### To access the programming challenges:
-1. 1. Log into GitHub with your chosen account.
+1. Log into GitHub with your chosen account.
 2. [Click here](https://classroom.github.com/a/EtFNR6l9) to accept the assignment from GitHub Classroom.
 3. Once the assignment has been generated you may clone it locally to your harddrive.
 4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
