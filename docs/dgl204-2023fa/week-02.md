@@ -5,16 +5,16 @@
 We're continuing our review of fundamentals this week, with an eye towards some more uniquely Kotlin (or, at least, *not* Java) features of the language. Our main focus this week is some basic object-oriented programming syntax (to be expanded on in *much* more detail in weeks to come) and Kotlin `string`s and string manipulation. We'll also take a look at some things that are likely new to you, and need to be introduced early, but don't really fit under any other topic heading, namely: destructuring (a *very* useful tool!) and `null` safety (an extremely important topic!)
 
 ## Basic syntax
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/NtfNUNENNBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conditions and loops
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/votujQe0F5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Declaring arrays
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ZT--Fqqy4V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Functions
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embeds/gLOObZ4RyYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Kotlin core development and evolution
 ---
@@ -42,7 +42,10 @@ The cool thing about Kotlin (and other open source languages that are developed 
 Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
 ### To access the programming challenges:
-1. 
+1. 1. Log into GitHub with your chosen account.
+2. [Click here](https://classroom.github.com/a/EtFNR6l9) to accept the assignment from GitHub Classroom.
+3. Once the assignment has been generated you may clone it locally to your harddrive.
+4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 
 ### Documentation and commenting
 
