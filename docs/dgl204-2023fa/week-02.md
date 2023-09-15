@@ -47,8 +47,6 @@ Follow the directions below to access the first set of programming challenges an
 3. Once the assignment has been generated you may clone it locally to your harddrive.
 4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 
-### Documentation and commenting
-
 ## Recommended practice exercises
 The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
 
