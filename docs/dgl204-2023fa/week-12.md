@@ -34,11 +34,9 @@ The benefit of using `tailrec` is that the Kotlin compiler will be able to optim
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qlc7AoPHXhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Assignments, homework and activities
+# Homework and activities
 ---
-## Homework 7
-Homework 7 is cancelled this week. I'd like you to take the time to catch up. Consider the following priority list of work and aim to complete some of this as soon as possible:
-1. Complete your JetBrains project
-2. Complete Advent of Code #2 (due Nov. 7!)
-3. Start work on Independent Development Assignment (as per feedback from homework 5 and homework 6)
-4. Start work on Advent of Code #3
+## Project 2
+- Due next week
+## Recommended practice exercises
+The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.

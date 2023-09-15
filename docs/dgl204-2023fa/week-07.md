@@ -32,8 +32,9 @@ The [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern) is one of the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHizbL9JtCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Assignments, homework and activities
+# Homework and activities
 ---
-No new homework this week. Concentrate on completing outstanding work, including any Advent of Code assignments and the Independent Development assignment. 
-
-Further information about the final self-evaluation is provided on Brightspace.
+## Project 1
+- Due next week
+## Recommended practice exercises
+The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.

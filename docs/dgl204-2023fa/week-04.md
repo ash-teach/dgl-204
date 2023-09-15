@@ -142,47 +142,13 @@ Watch the video below for more examples:
 # Homework and activities
 ---
 
-## Programming challenges 2
+## Programming challenges 4
 Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
 ### To access the programming challenges:
-1. 
-
-### Documentation and commenting
-
+1. Log into GitHub with your chosen account.
+2. [Click here]() to accept the assignment from GitHub Classroom.
+3. Once the assignment has been generated you may clone it locally to your harddrive.
+4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 ## Recommended practice exercises
 The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
-
-### learnCS.online
-- [Object with Public Value](https://www.learncs.online/practice/kotlin/object-with-public-value/challen@illinois.edu#object-with-public-value)
-- [Kotlin Simple Object Field](https://www.learncs.online/practice/kotlin/kotlin-simple-object-field/challen@illinois.edu)
-- [Kotlin Simple Object Field 2](https://www.learncs.online/practice/kotlin/kotlin-simple-object-field-2/challen@illinois.edu)
-- [Simple Object Method](https://www.learncs.online/practice/kotlin/simple-object-method/challen@illinois.edu#simple-object-method)
-- [Simple Object Method 2](https://www.learncs.online/practice/kotlin/simple-object-method-2/challen@illinois.edu)
-- [Object with Public Value](https://www.learncs.online/practice/kotlin/object-with-public-value/challen@illinois.edu)
-- [Counter Object](https://www.learncs.online/practice/kotlin/counter-object/challen@illinois.edu)
-- [Back Around](https://www.learncs.online/practice/kotlin/back-around/challen@illinois.edu?returnTo=strings)
-- [Endsly](https://www.learncs.online/practice/kotlin/endsly/challen@illinois.edu?returnTo=strings)
-- [Make Tags](https://www.learncs.online/practice/kotlin/make-tags/challen@illinois.edu?returnTo=strings)
-- [Middle Two](https://www.learncs.online/practice/kotlin/middle-two/challen@illinois.edu?returnTo=strings)
-- [Missing Char](https://www.learncs.online/practice/kotlin/missing-char/challen@illinois.edu?returnTo=strings)
-- [Repeat End](https://www.learncs.online/practice/kotlin/repeat-end/challen@illinois.edu?returnTo=strings)
-- [String Equality](https://www.learncs.online/practice/kotlin/string-equality/challen@illinois.edu#string-equality)
-- [Array Max (1D)](https://www.learncs.online/practice/kotlin/array-max-1d/challen@illinois.edu?returnTo=null)
-- [Array Sum (Two Dimensional)](https://www.learncs.online/practice/kotlin/array-sum-two-dimensional/challen@illinois.edu?returnTo=null)
-- [String Rotate Right](https://www.learncs.online/practice/kotlin/string-rotate-right/challen@illinois.edu#string-rotate-right)
-
-
-### Kotlin by Example
-- [Classes](https://play.kotlinlang.org/byExample/01_introduction/05_Classes)
-- [Named Arguments](https://play.kotlinlang.org/byExample/08_productivity_boosters/01_namedArguments)
-- [String Templates](https://play.kotlinlang.org/byExample/08_productivity_boosters/02_String%20Templates)
-- [Destructuring Declarations](https://play.kotlinlang.org/byExample/08_productivity_boosters/03_Destructuring%20Declarations)
-- [Null Safety](https://play.kotlinlang.org/byExample/01_introduction/04_Null%20Safety)
-
-### Kotlin Koans
-- [Named arguments](https://play.kotlinlang.org/koans/Introduction/Named%20arguments/Task.kt)
-- [Default arguments](https://play.kotlinlang.org/koans/Introduction/Named%20arguments/Task.kt)
-- [Triple-quoted strings](https://play.kotlinlang.org/koans/Introduction/Triple-quoted%20strings/Task.kt)
-- [String templates](https://play.kotlinlang.org/koans/Introduction/String%20templates/Task.kt)
-- [Nullable types](https://play.kotlinlang.org/koans/Introduction/Nullable%20types/Task.kt)

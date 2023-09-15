@@ -54,7 +54,12 @@ At this point, you may hve run into one or more of the [standard library annotat
 Some Kotlin libraries, like [Room Persistence Library](https://developer.android.com/jetpack/androidx/releases/room) use annotations extensively to support required implementation steps. When using Ktor you may notice some annotations, such as `@Serializable` from the [serialization library](https://kotlinlang.org/docs/serialization.html) and [`@Resource`](https://ktor.io/docs/type-safe-routing.html#resource_classes). However, don't confuse annotations with [return-to labels](https://kotlinlang.org/docs/returns.html#return-to-labels), or similar, the `@` symbol is used in multiple syntactic conventions in Kotlin!
 
 
-# Assignments, homework and activities
+# Homework and activities
 ---
-## Homework 8
-Homework 8 asks you to complete a second Ktor tutorial, and you can find directions on BrightSpace.
+## Midterm 
+- Next week
+
+## Project 1
+- Due in two weeks
+## Recommended practice exercises
+The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.

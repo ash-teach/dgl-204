@@ -64,14 +64,17 @@ This idea is what makes [_immutability_](https://en.wikipedia.org/wiki/Immutable
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fVNu8ohcojE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Assignments, homework and activities
+# Homework and activities
 ---
-## Homework 6
-Homework 6 is the third and (possibly) final homework that will go towards work on the Independent Development assignment. Details can be found on Brightspace.
 
-## Independent development assignment
-This assignment is due on the last day of class and comprises the development of a Kotlin project through use of JetBrains Academy, and a follow-up extension of that project. Please see Brightspace for more details.
+## Programming challenges 7
+Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
-## Advent of Code assignment #2
-This assignment comprises three parts, the second of which is due on Nov. 7th, although an more ideal deadline is Oct. 31st.
+### To access the programming challenges:
+1. Log into GitHub with your chosen account.
+2. [Click here]() to accept the assignment from GitHub Classroom.
+3. Once the assignment has been generated you may clone it locally to your harddrive.
+4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
+## Recommended practice exercises
+The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
 

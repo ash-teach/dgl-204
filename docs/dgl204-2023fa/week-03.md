@@ -13,17 +13,19 @@ We're continuing our review of fundamentals this week, with an eye towards some 
 ## Null safety 
 <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Programming challenges 3
+# Homework and activities
+---
+## Programming challenges 
 Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
 ### To access the programming challenges:
-1. 
-
-### Documentation and commenting
+1. Log into GitHub with your chosen account.
+2. [Click here]() to accept the assignment from GitHub Classroom.
+3. Once the assignment has been generated you may clone it locally to your harddrive.
+4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 
 ## Recommended practice exercises
 The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
-
 ### learnCS.online
 - [Object with Public Value](https://www.learncs.online/practice/kotlin/object-with-public-value/challen@illinois.edu#object-with-public-value)
 - [Kotlin Simple Object Field](https://www.learncs.online/practice/kotlin/kotlin-simple-object-field/challen@illinois.edu)

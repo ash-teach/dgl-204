@@ -167,14 +167,17 @@ fun main() {
 
 If, however, you are interested in the internals of the delegation pattern it comes down to how the sending object passes a reference to itself to the receiving object to ensure that the receiving object can take action in the _context_ of the sending object. This is perhaps most clearly demonstrated by the related [delegated properties](https://play.kotlinlang.org/byExample/07_Delegation/02_DelegatedProperties) pattern.
 
-# Assignments, homework and activities
+# Homework and activities
 ---
-## Independent development assignment
-This assignment is newly assigned this week and is due on the last day of class. The assignment comprises the development of a Kotlin project through use of JetBrains Academy, and a follow-up extension of that project. Please see Brightspace for more details.
 
-## Advent of Code assignment #2
-This assignment comprises three parts, the second of which is due on Nov. 7th, although an more ideal deadline is Oct. 31st. You should read the assignment description in detail, and watch the video below for a bit more information.
+## Programming challenges 5
+Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
-## Homework 4
-Homework 4 is the first homework that will go towards work on the Independent Development assignment. Details can be found on Brightspace.
+### To access the programming challenges:
+1. Log into GitHub with your chosen account.
+2. [Click here]() to accept the assignment from GitHub Classroom.
+3. Once the assignment has been generated you may clone it locally to your harddrive.
+4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 
+## Recommended practice exercises
+The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
