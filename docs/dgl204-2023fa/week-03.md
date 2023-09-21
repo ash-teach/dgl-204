@@ -1,17 +1,35 @@
 # ![Programming for Mobile App Development](images/1366x768-kotlin2022_2.png )
 
-# A deeper look at some Kotlin-specific language features
+# More fundamental syntax, null safety and idiomatic Kotlin
 ---
-We're continuing our review of fundamentals this week, with an eye towards some more uniquely Kotlin (or, at least, *not* Java) features of the language. Our main focus this week is some basic object-oriented programming syntax (to be expanded on in *much* more detail in weeks to come) and Kotlin `string`s and string manipulation. We'll also take a look at some things that are likely new to you, and need to be introduced early, but don't really fit under any other topic heading, namely: destructuring (a *very* useful tool!) and `null` safety (an extremely important topic!)
+This week is the last week of introduction and review, culminating with the introduction of basic class syntax, destructuring and some commonly used `String` methods. Up to and including this point much of what you've learned should be relatively familiar, or at least relatable in some way to a prior language that you have studied. That said, just reading and watching isn't enough when it comes to programming, so hopefully you've been taking advantage of all the recommended exercises as well.
+
+You can find the code for this week's lectures on in the [f23-week03 repository](https://github.com/nic-dgl-204-fall-2023/f23-week03) on our [DGL 204 organization](https://github.com/nic-dgl-204-fall-2023).
 
 ## Classes and basic syntax
+Kotlin class syntax is very stripped down and efficient. If you come from the world of Java, you'll quite quickly see the advantage of working with Kotlin. The video below demonstrates some of the differences between the standard class declaration in Java and various approaches to class declaration in Kotlin, from highly verbose, to extremely concise. We'll tend to favour a concise coding style as we progress through the semester, so make sure you have a good understanding of how these relate. 
+
+You can consider this video a very light introduction to object-oriented programming (OOP), which we'll dive into over a couple weeks starting in week 4. Many of the conventions of OOP in Kotlin will be familiar to those of you who have programmed in Java, but there may be some of you with alternative backgrounds who have less familiarity. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BoVarI5C2yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Destructuring & strings
+Destructuring is a really cool language feature that you may have seen elsewhere (possibly [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)). While you probably won't have a huge number of use-cases for it in the short term, it's a great feature to have in your back pocket.
+
+`String` manipulation is a huge part of any programming langauge; some even languages make text processing their primary purpose (see [Perl](https://en.wikipedia.org/wiki/Perl)). Kotlin is no exception to this, as evidenced by the _very_ long list of []`String` methods available](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/) in the standard library. I encourage you to take a scan through this list of methods so that you understand the scope of what is available. In short though, almost anything you might consider doing with a `String` has already been implemented in the standard library - so don't reinvent the wheel! 
+
+We'll more deeply examine some `String` methods as we move into functional programming paradigm after midterms.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRvez-DQoHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Null safety 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Null and nullable identifiers are a pretty important concept to wrap your head around, as you'll definitely work increasingly with nullables, especially as you move towards interfacing with remote endpoints, or with 3rd part APIs. This video is fairly light introduction, but nullables will continue to feature throughout the semester.
+
+<iframe width="560" height="315" src="https://youtube.com/embed/fR85bHuOhLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Idiomatic Kotlin
+We're going to try as much as possible to write our Kotlin code according to published [conventions](https://kotlinlang.org/docs/coding-conventions.html) and [idioms](https://kotlinlang.org/docs/idioms.html). While I don't expect you to have a full grasp of all coding conventions from today forward, I want you to be aware of the resources available (see the links in this paragraph and the video below), and especially to take advantage of all the hints, suggestions and warnings (and errors!) surfaced in IntelliJ IDEA as you write, compile and run your code. Taking an intentional approach to writing clean code is one of the most important things you can do to improve your skills as a developer.
+
+<iframe width="560" height="315" src="https://youtube.com/embed/gHf05A_kbCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Homework and activities
 ---
