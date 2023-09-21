@@ -38,7 +38,7 @@ Follow the directions below to access the first set of programming challenges an
 
 ### To access the programming challenges:
 1. Log into GitHub with your chosen account.
-2. [Click here]() to accept the assignment from GitHub Classroom.
+2. [Click here](https://classroom.github.com/a/zRHdBuBX) to accept the assignment from GitHub Classroom.
 3. Once the assignment has been generated you may clone it locally to your harddrive.
 4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
 
