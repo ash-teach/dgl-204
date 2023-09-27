@@ -150,5 +150,13 @@ Follow the directions below to access the first set of programming challenges an
 2. [Click here]() to accept the assignment from GitHub Classroom.
 3. Once the assignment has been generated you may clone it locally to your harddrive.
 4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
+
 ## Recommended practice exercises
-The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
+I'm going to slow down on suggesting specific exercises starting this week. If you've been using the resources suggested you should be pretty familiar with them by now and have an idea what works for you and where to go next. 
+
+One nice features about the practice problems on learncs.online is that they can be filtered by question concept. While not all practice problems tagged under a specific concept will be the most relevant, you can pick and choose with what works for you. For this week I'd recommend anything under the following tags as good practice:
+
+- [Encapsulation](https://www.learncs.online/practice/kotlin#encapsulation)
+- [Inheritance](https://www.learncs.online/practice/kotlin#inheritance) - there is actually only one problem tagged under inheritance!
+- [Using Interfaces](https://www.learncs.online/practice/kotlin#usinginterfaces) - again, only one problem!
+- [Implementing Interfaces](https://www.learncs.online/practice/kotlin#implementinginterfaces)
