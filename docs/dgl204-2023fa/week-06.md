@@ -6,8 +6,6 @@ A key reason that we've spent time in this course in looking at Kotlin-specific 
 
 To that end, this week we introduce [Ktor](https://ktor.io/), which is JetBrains' in-house developed framework for web-based application development. Ktor provides both [server-side](https://ktor.io/docs/intellij-idea.html) and [client-side](https://ktor.io/docs/getting-started-ktor-client.html) tooling and provides support for [multi-platform applications](https://ktor.io/docs/getting-started-ktor-client-multiplatform-mobile.html). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UtFU01ALJe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Developing a Ktor application
 This week we're going to examine code based on two Ktor tutorials: [Creating HTTP APIs](https://ktor.io/docs/creating-http-apis.html) and [Creating a static website](https://ktor.io/docs/creating-static-website.html). The videos below walk through these tutorials, but provide a little additional context that isn't covered in each.
 
@@ -57,9 +55,11 @@ Some Kotlin libraries, like [Room Persistence Library](https://developer.android
 # Homework and activities
 ---
 ## Midterm 
-- Next week
+**Due** Oct. 20th at 12:00pm. More information available on [Brightspace](https://mycourses.nic.bc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=25359&ou=28107).
 
 ## Project 1
-- Due in two weeks
+**Due** Oct. 25th at 11:59pm. [Click here](https://classroom.github.com/a/A1RmJEwr) to read assignment details and directions and to accept the assignment. 
 ## Recommended practice exercises
-The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
+The main [Ktor](https://ktor.io/) site includes an [extensive set of sample applications](https://ktor.io/learn/). Most of these do not include any tutorial components, but the code is maintained and the sample applications should be buildable, if you'd like to examine them. Of particular interest are:
+- \[**Simpler**\] [Chat](https://github.com/ktorio/ktor-samples/tree/main/chat) - A chat application written with Ktor using WebSockets and Sessions.
+- \[**Challenging**\] [Full-stack multiplatform application](https://github.com/ktorio/ktor-samples/tree/main/fullstack-mpp) - A full-stack sample project for Ktor running as an embedded application and serving a static folder with kotlin-js code sharing code with the backend.

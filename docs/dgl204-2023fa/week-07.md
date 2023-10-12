@@ -2,12 +2,12 @@
 
 # Data persistence with Ktor
 ---
-This week we're taking our work with Ktor one step further to include data persistence. The following video demonstrates a second tutorial building on last week's homework to produce a version of the Ktor Journal site with a local database store provided by Exposed and H2. 
+This week we're building on our previous work with Ktor to take it one step further and add data persistence. The following video demonstrates a second tutorial to produce a version of the Ktor Journal site with a local database store provided by Exposed and H2. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rTyeLC38DNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exposed database
-[Exposed](https://github.com/JetBrains/Exposed) is a JetBrains-developed SQL library for Kotlin that permit database interactions either via the [Exposed DSL](https://github.com/JetBrains/Exposed/wiki/DSL) or via the [Exposed DAO](https://github.com/JetBrains/Exposed/wiki/DAO). You may recall that we defined DSL, or Domain-Specific Language, in week 8 in the discussion of [Gradle vs. Maven](dgl204-2022fa/week-08#gradle-vs-maven), whereas DAO, or Data Access Object, might be familiar to you from DGL 114 and the [Room Persistence Library](https://developer.android.com/jetpack/androidx/releases/room).
+[Exposed](https://github.com/JetBrains/Exposed) is a JetBrains-developed SQL library for Kotlin that permit database interactions either via the [Exposed DSL](https://github.com/JetBrains/Exposed/wiki/DSL) or via the [Exposed DAO](https://github.com/JetBrains/Exposed/wiki/DAO). You may recall that a DSL, or Domain-Specific Language, is a programming language built to address a very specific problem, or domain. A DAO, or Data Access Object, is a tool used to encapsulate database interactions and it might be familiar to you from DGL 114 and the [Room Persistence Library](https://developer.android.com/jetpack/androidx/releases/room).
 
 For this project, we'll use the DAO approach. The DAO acts as an interface to the database and thus provides a layer abstraction between your app code and the database itself. 
 
@@ -23,9 +23,6 @@ Kotlin coroutines are available in a [JetBrains developed library](https://kotli
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RqoiSehwdHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Facade pattern
-The [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern) is one of the more well-known software architecture patterns (recall, perhaps, [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern), [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern), or [Observer](https://en.wikipedia.org/wiki/Observer_pattern)). A Facade is a simplified system, providing only the necessary access points to the system and abstracting away all unneeded complexity.
-
 ## Examining the database
 [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) provides a [Database tool window](https://www.jetbrains.com/help/idea/database-tool-window.html) that can be used to inspect the contents of a database. If you are using IntelliJ IDEA CE then you can optionally use a third-party database tool, such as [DBSchema](https://dbschema.com/), to examine the contents of your database.
 
@@ -35,6 +32,8 @@ The [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern) is one of the
 # Homework and activities
 ---
 ## Project 1
-- Due next week
+**Due** Oct. 25th at 11:59pm. [Click here](https://classroom.github.com/a/A1RmJEwr) to read assignment details and directions and to accept the assignment. 
 ## Recommended practice exercises
-The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
+The main [Ktor](https://ktor.io/) site includes an [extensive set of sample applications](https://ktor.io/learn/). Most of these do not include any tutorial components, but the code is maintained and the sample applications should be buildable, if you'd like to examine them. Of particular interest are:
+- \[**Simpler**\] [Chat](https://github.com/ktorio/ktor-samples/tree/main/chat) - A chat application written with Ktor using WebSockets and Sessions.
+- \[**Challenging**\] [Full-stack multiplatform application](https://github.com/ktorio/ktor-samples/tree/main/fullstack-mpp) - A full-stack sample project for Ktor running as an embedded application and serving a static folder with kotlin-js code sharing code with the backend.
