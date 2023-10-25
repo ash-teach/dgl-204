@@ -2,9 +2,9 @@
 
 # Functional programming - part 1
 ---
-We've already introduced the difference between [imperative](https://en.wikipedia.org/wiki/Imperative_programming) and [declarative](https://en.wikipedia.org/wiki/Declarative_programming) programming paradigms and how we can distinguish between them: Remember from the [week 3 introduction](https://ash-teach.github.io/dgl-204/#/dgl204-2022fa/week-03?id=object-oriented-programming-part-1) that imperative programs describe _how_ a program should execute, while declarative programs describe _what_ a program entity is - without specifying how to obtain it. This difference between the _how_ and the _what_ is most apparent in control flow - imperative programs use control flow (e.g. `if - else` statements, `switches`, `for` loops and `while` loops), whereas declarative programs _do not_.
+Earlier in the semester I briefly introduced the difference between [imperative](https://en.wikipedia.org/wiki/Imperative_programming) and [declarative](https://en.wikipedia.org/wiki/Declarative_programming) programming paradigms and how we can distinguish between them: Specifically, **imperative** programs describe _how_ a program should execute, while **declarative** programs describe _what_ a program entity is - without specifying how to obtain it. This difference between the _how_ and the _what_ is most apparent in control flow - imperative programs use control flow (e.g. `if - else` statements, `switches`, `for` loops and `while` loops), whereas declarative programs _do not_.
 
-[Functional programming](https://en.wikipedia.org/wiki/Functional_programming) paradigm is a subset of declarative paradigm, so among other qualities (discussed next week!), functional programs take the same approach of describing the _what_ and not the _how_ of a program. 
+[Functional programming](https://en.wikipedia.org/wiki/Functional_programming) paradigm is a subset of declarative paradigm, so among other qualities (discussed next week!), functional programs take the same approach of describing the _what_ and not the _how_ of a program. This week I'll be introducing a number of foundational concepts of functional programming, and we'll examine a number of functional methods, like `map`, `reduce`, `filter` and `fold` that we can use in many cases in replacement of traditional imperative `for` loops to produce cleaner and more readable code.
 
 If you're coming at this idea from pure imperative (and likely [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)) experience, you might wonder how one could construct a program without specifying any control flow. The key thing to remember is that the _how_ part is there somewhere, but it's deep in the _language_ implementation, meaning the language is built in such a way that _allows_ a declarative versus an imperative approach. This question of implementation is precisely why you can't just choose to use any programming paradigm you want with any programming language - only languages that support specific paradigms can be used to program in that paradigm. 
 
@@ -31,6 +31,8 @@ The most commonly used type of collection in Kotlin are `List`s and `MutableList
 
 ### Other collection types
 There are a few other  collections that are useful for specific applications: `Set` is an unordered collection of _distinct_ elements; and `Map` collects key-value pairs, where keys are guaranteed unique. Both `Set` and `Map` also have mutable versions: `MutableSet` and `MutableMap`.
+
+> **Important note**: `Map` (the collection type) and `map` (the method/function - see below) are *different* things! It's easy to confuse them, since we're introducing them at the same time, but just remember that case matters here! Uppercase M `Map` is always the collection type and lowercase m `map` is always the function.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGcxsaaFeDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -87,12 +89,37 @@ There are many more methods available on collections than could reasonably be co
 ## Programming challenges 6
 Follow the directions below to access the first set of programming challenges and complete them according to the directions.
 
+**NOTE:** Some of the problems this week will look familiar! The goal is to revisit some problems we originally coded in imperative style, and rewrite them in a declarative/functional style so that you can compare.
+
 ### To access the programming challenges:
 1. Log into GitHub with your chosen account.
-2. [Click here]() to accept the assignment from GitHub Classroom.
+2. [Click here](https://classroom.github.com/a/ti-W0808) to accept the assignment from GitHub Classroom.
 3. Once the assignment has been generated you may clone it locally to your harddrive.
 4. Follow the directions in the programming challenge `README.md` file to complete the assignment.
+
 ## Recommended practice exercises
+Since we're moving to a different programming paradigm, I will directly recommend some good practice problems to look at this week.
 
 
+### learnCS.online
+- [Small Word Filter With List](https://www.learncs.online/practice/kotlin/small-word-filter-with-list/challen@illinois.edu)
+- [List to Set](https://www.learncs.online/practice/kotlin/list-to-set/challen@illinois.edu)
+- [Word Count with Map](https://www.learncs.online/practice/kotlin/word-count-with-map/challen@illinois.edu)
+- [Word Lengths with Map](https://www.learncs.online/practice/kotlin/word-lengths-with-map/challen@illinois.edu)
+- [String Duplicate Words Ignore Case](https://www.learncs.online/practice/kotlin/string-duplicate-words-ignore-case/challen@illinois.edu) - Note that you can complete this using either `Set` _or_ `Map`!
+- [Double Up](https://www.learncs.online/practice/kotlin/double-up/taylor@msoe.edu)
 
+Also the [map-reduce-filter](https://www.learncs.online/lessons/kotlin/streams#map-reduce-filter) lesson is a great one to help you wrap your head around functional, if you need some additional support (and practice).
+
+### Kotlin by Example
+- [List](https://play.kotlinlang.org/byExample/05_Collections/01_List)
+- [Set](https://play.kotlinlang.org/byExample/05_Collections/02_Set)
+- [Map](https://play.kotlinlang.org/byExample/05_Collections/03_Map)
+- [filter](https://play.kotlinlang.org/byExample/05_Collections/04_filter)
+- [map](https://play.kotlinlang.org/byExample/05_Collections/04_map)
+
+
+### Kotlin Koans
+- [Filter; map](https://play.kotlinlang.org/koans/Collections/Filter%20map/Task.kt)
+
+You can also try some other Kotlin Koans in the [Collections](https://play.kotlinlang.org/koans/Collections/Introduction/Task.kt) section, if you like. Just be aware that some solutions require some language features we haven't yet discussed.
