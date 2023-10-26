@@ -2,6 +2,8 @@
 
 # Functional programming - part 1
 ---
+The week 8 code used in the videos below can be found [here](https://github.com/nic-dgl-204-fall-2023/f23-week08).
+
 Earlier in the semester I briefly introduced the difference between [imperative](https://en.wikipedia.org/wiki/Imperative_programming) and [declarative](https://en.wikipedia.org/wiki/Declarative_programming) programming paradigms and how we can distinguish between them: Specifically, **imperative** programs describe _how_ a program should execute, while **declarative** programs describe _what_ a program entity is - without specifying how to obtain it. This difference between the _how_ and the _what_ is most apparent in control flow - imperative programs use control flow (e.g. `if - else` statements, `switches`, `for` loops and `while` loops), whereas declarative programs _do not_.
 
 [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) paradigm is a subset of declarative paradigm, so among other qualities (discussed next week!), functional programs take the same approach of describing the _what_ and not the _how_ of a program. This week I'll be introducing a number of foundational concepts of functional programming, and we'll examine a number of functional methods, like `map`, `reduce`, `filter` and `fold` that we can use in many cases in replacement of traditional imperative `for` loops to produce cleaner and more readable code.
