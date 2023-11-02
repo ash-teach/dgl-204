@@ -9,8 +9,8 @@
 - [Week 6 (Oct. 11)](dgl204-2023fa/week-06)
 - [Week 7 (Oct. 18)](dgl204-2023fa/week-07)
 - [Week 8 (Oct. 25)](dgl204-2023fa/week-08)
-<!--- [Week 9 (Nov. 1)](dgl204-2023fa/week-09)
-- [Week 10 (Nov. 8)](dgl204-2023fa/week-10)
+- [Week 9 (Nov. 1)](dgl204-2023fa/week-09)
+<!--- [Week 10 (Nov. 8)](dgl204-2023fa/week-10)
 - [Week 11 (Nov. 15)](dgl204-2023fa/week-11)
 - [Week 12 (Nov. 22)](dgl204-2023fa/week-12)
 - [Week 13 (Nov. 29)](dgl204-2023fa/week-13) -->
