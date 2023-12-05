@@ -11,9 +11,9 @@
 - [Week 8 (Oct. 25)](dgl204-2023fa/week-08)
 - [Week 9 (Nov. 1)](dgl204-2023fa/week-09)
 - [Week 10 (Nov. 8)](dgl204-2023fa/week-10)
-<!--- [Week 11 (Nov. 15)](dgl204-2023fa/week-11)
+<!-- - [Week 11 (Nov. 15)](dgl204-2023fa/week-11) -->
 - [Week 12 (Nov. 22)](dgl204-2023fa/week-12)
-- [Week 13 (Nov. 29)](dgl204-2023fa/week-13) -->
+- [Week 13 (Nov. 29)](dgl204-2023fa/week-13) 
 
 - **LMS Links**
 <!-- - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar]() -->

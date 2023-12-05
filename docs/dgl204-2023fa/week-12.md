@@ -33,10 +33,3 @@ Kotlin provides a special `tailrec` keyword that can be applied to recursive fun
 The benefit of using `tailrec` is that the Kotlin compiler will be able to optimize the compiled code (actually to a fast efficient `while` loop) that will have a lower time and space complexity than a comparable `while` or `for` loop, or even than a non-`tailrec` recursive function. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qlc7AoPHXhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Homework and activities
----
-## Project 2
-- Due next week
-## Recommended practice exercises
-The following exercises are highly recommended as practice problems to get you oriented to using Kotlin.
